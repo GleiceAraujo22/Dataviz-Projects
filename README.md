@@ -22,3 +22,6 @@ O Dashboard foi elaborado a partir da necessidade de responder as seguintes perg
 4.  Qual **categoria de produto** apresentou maior lucro médio?  
 5.  Qual foi o **comportamento da margem de lucro** ao longo do tempo? 
 
+### Carga de Dataset e Transformação No Power BI
+
+O dataset do projeto foi recebebido em 4 arquivos no formato *CSV*. Logo ao carregar os dados foram notados alguns problemas que exigiram algumas transformações e a limpeza dos dados para a devida elaboração dos gráficos.
