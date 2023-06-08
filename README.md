@@ -9,4 +9,4 @@ A maioria dos dados usados são fictícios, caso contrário a fonte dos mesmos e
 
 ## Projeto 1 - Dashboard de Vendas, Custo e KPI 
 
-Este projeto foi elaborado durante o curso gratuito de **Microsoft Power BI Para Business Intelligence e Data Science** da Data Science Academy ([DSA](https://www.datascienceacademy.com.br/start))
+Este projeto foi elaborado durante o curso gratuito de **Microsoft Power BI Para Business Intelligence e Data Science** da Data Science Academy ([DSA](https://www.datascienceacademy.com.br/))
