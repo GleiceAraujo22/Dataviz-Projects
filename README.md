@@ -24,4 +24,4 @@ O Dashboard foi elaborado a partir da necessidade de responder as seguintes perg
 
 ### Carga de Dataset e Transformação No Power BI
 
-O dataset do projeto foi recebebido em 4 arquivos no formato *CSV*. Logo ao carregar os dados foram notados alguns problemas que exigiram algumas transformações e a limpeza dos dados para a devida elaboração dos gráficos.
+O dataset do projeto foi recebebido em 4 arquivos no formato *CSV*. Logo ao carregar os dados no PB foram notados alguns problemas que exigiram algumas transformações e a limpeza dos dados para a devida elaboração dos gráficos.
