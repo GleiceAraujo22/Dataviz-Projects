@@ -8,7 +8,7 @@ Este é um repositório de projetos em Análise de Dados elaborados com o auxíl
 A maioria dos dados usados são fictícios, caso contrário a fonte dos mesmos estará no final da descrição do projeto.
 
 
-## Projeto 1 - [Dashboard Analítico de Vendas, Custo e KPI](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
+## Projeto Vendas - [Dashboard Analítico de Vendas, Custo e KPI](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
 
 ### Introdução
 
