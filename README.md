@@ -31,7 +31,7 @@ O dataset do projeto está separado em 4 arquivos no formato *csv*. Logo ao carr
 * Para responder as perguntas 4 e 5 foi necessário criar uma coluna calculada com DAX (Data Analysis Expressions);
 * Para responder a questão 3 foi elaborado no PB um KPI ( Key Performance Indicator) indicando a média do valor de venda. 
 
-Neste repositorio você encontrará os datasets usados neste projeto, abaixo apresento a versão final do dashboard de vendas e no link a seguir, a versão [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) do mesmo.  
+Neste repositório você encontrará os datasets usados neste projeto, abaixo apresento a versão final do dashboard de vendas e no link a seguir, a [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) do mesmo.  
 
 ![Dashboard de Vendas](Projeto_vendas/Dashboard_vendas.png)
 
