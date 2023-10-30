@@ -1,14 +1,11 @@
-# Projetos Power BI
- ![gráficoanalytics (1)](https://github.com/GleiceAraujo22/PowerBI-Projects/assets/111028971/afffcabe-b0a1-4ed3-8da7-d7a7009ca5ac)
-*** 
 ## Começando 🚀 
 
-Este é um repositório de projetos em Análise de Dados elaborados com o auxílio da ferramenta de Dataviz **Microsoft Power BI**. Todos os projetos apresentados neste repositório foram elaborados durante cursos, desafios e bootcamps e além do produto final (Dashboard) cada projeto terá os processos e o problema de negócio detalhados para a devida compreensão do contexto do problema que justifique o seu produto final. 
+Este é um repositório de projetos dataviz criado com o intuito de demonstrar alguns projetos que criei utlizando as principais ferramentas de Dataviz do mercado como **Microsoft Power BI**, **Tableau** e **Looker Studio**. Todos os projetos apresentados neste repositório foram elaborados durante cursos, desafios e bootcamps e além do produto final (Dashboard) cada projeto terá os processos(EDA) e o problema de negócio detalhados para a devida compreensão do contexto do problema que justifique o seu produto final. 
 
 A maioria dos dados usados são fictícios, caso contrário a fonte dos mesmos estará no final da descrição do projeto.
 
 
-## Projeto Vendas - [Dashboard Analítico de Vendas, Custo e KPI](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
+## Projeto Vendas no Microsoft Power BI - [Dashboard Analítico de Vendas, Custo e KPI](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
 
 ### Introdução
 
@@ -25,16 +22,16 @@ O Dashboard foi elaborado a partir da necessidade de responder as seguintes perg
 
 ### Carga de Dataset e Transformação No Power BI
 
-O dataset do projeto foi recebebido em 4 arquivos no formato *csv*. Logo ao carregar os dados no PB foram notados alguns problemas que exigiram algumas transformações e a limpeza dos dados para a devida elaboração dos gráficos. 
+O dataset do projeto está separado em 4 arquivos no formato *csv*. Logo ao carregar os dados no PB notei alguns problemas que exigiram algumas transformações para isso, realizei a limpeza dos dados para a devida elaboração dos gráficos. 
 
-![relacionamento_cardinalidade](https://github.com/GleiceAraujo22/PowerBI-Projects/assets/111028971/2b4c7294-0851-4c42-bf49-0f0a26546268)
+![relacionamento_cardinalidade](Projeto_vendas/relacionamento_cardinalidade.png) 
 
 ### Coluna Calculada com DAX, KPI e Dashboard final
 
-* Para responder as perguntas 4 e 5 foi necessário criar coluna calculada com DAX (Data Analysis Expressions);
+* Para responder as perguntas 4 e 5 foi necessário criar uma coluna calculada com DAX (Data Analysis Expressions);
 * Para responder a questão 3 foi elaborado no PB um KPI ( Key Performance Indicator) indicando a média do valor de venda. 
 
-Neste repositorio você encontrará os datasets usados neste projeto e no link a seguir, a versão final do Dashboard de vendas em [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9). 
+Neste repositorio você encontrará os datasets usados neste projeto, abaixo apresento a versão final do dashboard de vendas e no link a seguir, a versão [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9). 
 
 
 
