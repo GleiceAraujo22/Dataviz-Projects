@@ -1,6 +1,6 @@
 ## Começando 🚀 
 
-Este é um repositório de projetos dataviz criado com o intuito de demonstrar alguns projetos que criei utlizando as principais ferramentas de Dataviz do mercado como **Microsoft Power BI**, **Tableau** e **Looker Studio**. Todos os projetos apresentados neste repositório foram elaborados durante cursos, desafios e bootcamps e além do produto final (Dashboard) cada projeto terá os processos(EDA) e o problema de negócio detalhados para a devida compreensão do contexto do problema que justifique o seu produto final. 
+Este é um repositório de projetos dataviz criado com o intuito de demonstrar alguns projetos que criei utlizando as principais ferramentas de Dataviz do mercado como **Microsoft Power BI**, **Tableau** e **Looker Studio**. Todos os projetos apresentados neste repositório foram elaborados durante cursos, desafios e bootcamps e além do produto final (Dashboard) cada projeto terá os processos e o problema de negócio detalhados para a devida compreensão do contexto do problema que justifique o seu produto final. 
 
 A maioria dos dados usados são fictícios, caso contrário a fonte dos mesmos estará no final da descrição do projeto.
 
