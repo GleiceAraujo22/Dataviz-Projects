@@ -1,39 +1,28 @@
-## Começando 🚀 
+## Bem-vindo ao Repositório de Projetos de Dataviz! 🚀 
 
-Este é um repositório de projetos dataviz criado com o intuito de demonstrar alguns dashboards que criei utlizando as principais ferramentas de Dataviz do mercado como **Microsoft Power BI**, **Tableau** e **Looker Studio**. Todos os projetos apresentados neste repositório foram elaborados durante cursos, desafios e bootcamps e além do produto final (Dashboard) cada projeto terá os processos e o problema de negócio detalhados para a devida compreensão do contexto do problema que justifique o seu produto final. 
+Aqui você encontrará uma coleção de projetos de visualização de dados criados para demonstrar os dashboards que desenvolvi, utilizando as principais ferramentas de Dataviz do mercado, como Microsoft Power BI, Tableau e Looker Studio. Cada projeto foi elaborado durante cursos, desafios e bootcamps, e além do resultado final (o dashboard), você terá acesso aos processos e ao contexto do problema de negócio para uma compreensão completa.
 
-Os datasets utilizados aqui são retirados de bases de dados abertas.
+Todos os conjuntos de dados utilizados neste repositório são provenientes de fontes de dados abertas.
 
+### Projetos Disponíveis  
 
-## Projeto Vendas no Microsoft Power BI - [Dashboard Analítico de Vendas, Custo e KPI](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
+1. **Dashboard Analítico de Vendas Custo e KPI**
+- [Link do Projeto Completo](Projeto_vendas) 
+- [Link do Dashboard Interativo de Vendas Online](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) 
 
-### Introdução
+ O Dashboard foi elaborado a partir da necessidade de responder as seguintes perguntas de negócio:  
 
-Este projeto foi elaborado durante o curso gratuito de **Microsoft Power BI Para Business Intelligence e Data Science** da Data Science Academy ([DSA](https://www.datascienceacademy.com.br/)) 
-
-
-O Dashboard foi elaborado a partir da necessidade de responder as seguintes perguntas de negócio:  
-
-1. Qual foi o **total de valor venda** considerando cada **modo de envio dos pedidos**?  
-2. Quais mercados tiveram o **maior custo médio de envio dos produtos vendidos**? 
-3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. A empresa ficou abaixo ou acima da meta no mês de Abril/2014? 
-4.  Qual **categoria de produto** apresentou maior lucro médio?  
-5.  Qual foi o **comportamento da margem de lucro** ao longo do tempo? 
-
-### Carga de Dataset e Transformação No Power BI
-
-O dataset do projeto está separado em 4 arquivos no formato *csv*. Logo ao carregar os dados no PB notei alguns problemas que exigiram algumas transformações para isso, realizei a limpeza dos dados para a devida elaboração dos gráficos. 
-
-![relacionamento_cardinalidade](Projeto_vendas/relacionamento_cardinalidade.png) 
-
-### Coluna Calculada com DAX, KPI e Dashboard final
-
-* Para responder as perguntas 4 e 5 foi necessário criar uma coluna calculada com DAX (Data Analysis Expressions);
-* Para responder a questão 3 foi elaborado no PB um KPI ( Key Performance Indicator) indicando a média do valor de venda. 
-
-Neste repositório você encontrará os datasets usados neste projeto, abaixo apresento a versão final do dashboard de vendas e no link a seguir, a [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) do mesmo.  
+ 1. Qual foi o **total de valor venda** considerando cada **modo de envio dos pedidos**?  
+ 2. Quais mercados tiveram o **maior custo médio de envio dos produtos vendidos**? 
+ 3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. A empresa ficou abaixo ou acima da meta no mês de Abril/2014? 
+ 4.  Qual **categoria de produto** apresentou maior lucro médio?  
+ 5.  Qual foi o **comportamento da margem de lucro** ao longo do tempo? 
 
 ![Dashboard de Vendas](Projeto_vendas/Dashboard_vendas.png)
+
+
+
+
 
 
 
