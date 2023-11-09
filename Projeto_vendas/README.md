@@ -18,15 +18,17 @@ O Dashboard foi elaborado a partir da necessidade de responder as seguintes perg
 
 O dataset do projeto está separado em 4 arquivos no formato *csv*. Logo ao carregar os dados no PB notei alguns problemas que exigiram algumas transformações para isso, realizei a limpeza dos dados para a devida elaboração dos gráficos. 
 
-![relacionamento_cardinalidade](Projeto_vendas/relacionamento_cardinalidade.png) 
+![relacionamento_cardinalidade](relacionamento_cardinalidade.png) 
 
 ### Coluna Calculada com DAX, KPI e Dashboard final
 
 * Para responder as perguntas 4 e 5 foi necessário criar uma coluna calculada com DAX (Data Analysis Expressions);
 * Para responder a questão 3 foi elaborado no PB um KPI ( Key Performance Indicator) indicando a média do valor de venda. 
 
-Neste repositório você encontrará os datasets usados neste projeto, abaixo apresento a versão final do dashboard de vendas e no link a seguir, a [versão interativa](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9) do mesmo.  
+Neste repositório você encontrará os datasets usados neste projeto. Abaixo apresento a versão final do dashboard de vendas e no link a seguir, a [versão interativa no Power BI online](https://app.powerbi.com/view?r=eyJrIjoiMjQzYjdkZjYtNmQzZi00ODZjLTllMmQtNWZhYzQ0NWI0MmZjIiwidCI6ImZkMzJmZDA0LTJmMmQtNDQ4MS1hZDcwLTY0Yzc2NWUxZDdjOCJ9).  
 
-![Dashboard de Vendas](Projeto_vendas/Dashboard_vendas.png)
+
+
+![Dashboard de Vendas](Dashboard_vendas.png)
 
 
