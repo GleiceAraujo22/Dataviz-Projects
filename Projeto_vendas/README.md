@@ -3,7 +3,7 @@
 
 ### Introdução
 
-Este projeto foi elaborado durante o curso gratuito de **Microsoft Power BI Para Business Intelligence e Data Science** da Data Science Academy ([DSA](https://www.datascienceacademy.com.br/)) 
+Este dashboard foi elaborado durante o curso  **Microsoft Power BI Para Business Intelligence e Data Science** da Data Science Academy ([DSA](https://www.datascienceacademy.com.br/)) 
 
 
 O Dashboard foi elaborado a partir da necessidade de responder as seguintes perguntas de negócio:  
